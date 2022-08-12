@@ -1,0 +1,3 @@
+[submodule "activerecord/test/fixtures/all/example-submodule"]
+	path = activerecord/test/fixtures/all/example-submodule
+	url = https://github.com/githubtraining/example-submodule.git
